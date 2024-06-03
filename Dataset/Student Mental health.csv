@@ -1,0 +1,226 @@
+Jenis Kelamin,Umur,Jurusan,Tahun Studi,IPK,Sudah Menikah?,Sedang Depresi?,Sedang Cemas?,Sedang Panik?,Sedang Menjalani Perawatan?,Stres Status
+Perempuan,18,Teknik Mesin,1,"3,00 - 3,49",TIDAK,Ya,TIDAK,Ya,TIDAK,Ya
+Pria,21,Pendidikan Agama Islam,2,"3,00 - 3,49",TIDAK,TIDAK,Ya,TIDAK,TIDAK,Ya
+Pria,19,Fisika,1,"3,00 - 3,49",TIDAK,Ya,Ya,Ya,TIDAK,Ya
+Perempuan,22,Hukum,3,"3,00 - 3,49",Ya,Ya,TIDAK,TIDAK,TIDAK,Ya
+Pria,23,Matematika,4,"3,00 - 3,49",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Pria,19,Teknik Mesin,2,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,Ya,TIDAK,Ya
+Perempuan,23,Teknik Elektro,2,"3,50 - 4,00",Ya,Ya,TIDAK,Ya,TIDAK,Ya
+Perempuan,18,Ilmu Komputer,1,"3,50 - 4,00",TIDAK,TIDAK,Ya,TIDAK,TIDAK,Ya
+Perempuan,19,Biologi,2,"2,50 - 2,99",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Pria,18,Teknik Perkapalan,1,"3,50 - 4,00",TIDAK,TIDAK,Ya,Ya,TIDAK,Ya
+Perempuan,20,Biologi,1,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,24,Teknik Mesin,3,"3,50 - 4,00",Ya,Ya,TIDAK,TIDAK,TIDAK,Ya
+Perempuan,18,Ilmu Komputer,1,"3,00 - 3,49",TIDAK,Ya,TIDAK,TIDAK,TIDAK,Ya
+Pria,19,Teknik Mesin,1,"3,00 - 3,49",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,18,Gizi Klinik,2,"3,50 - 4,00",TIDAK,TIDAK,Ya,TIDAK,TIDAK,Ya
+Pria,24,Ilmu Komputer,3,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,24,Akuntansi,3,"3,00 - 3,49",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,24,Kedokteran,4,"3,00 - 3,49",Ya,Ya,Ya,Ya,TIDAK,Ya
+Perempuan,20,Fisika,2,"3,50 - 4,00",TIDAK,TIDAK,Ya,TIDAK,TIDAK,Ya
+Perempuan,18,Ilmu Kelautan,2,"3,50 - 4,00",Ya,Ya,Ya,Ya,TIDAK,Ya
+Perempuan,19,Teknik Mesin,1,"3,00 - 3,49",TIDAK,TIDAK,TIDAK,Ya,TIDAK,Ya
+Perempuan,18,Manajemen,2,"3,00 - 3,49",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,24,Ilmu Komputer,1,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,24,Teknik Mesin,1,"3,00 - 3,49",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,23,Ilmu Komputer,3,"3,50 - 4,00",TIDAK,Ya,Ya,Ya,TIDAK,Ya
+Perempuan,18,Perbankan,1,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,19,Teknik Mesin,1,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Pria,18,Teknik Mesin,2,"3,00 - 3,49",Ya,Ya,Ya,TIDAK,TIDAK,Ya
+Perempuan,24,Fisika,3,"3,50 - 4,00",Ya,Ya,Ya,Ya,Ya,Ya
+Perempuan,24,Ilmu Komputer,4,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,23,Administrasi Bisnis,2,"3,00 - 3,49",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Pria,18,Ilmu Komputer,2,"3,00 - 3,49",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Pria,19,Ilmu Komputer,1,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,Ya,TIDAK,Ya
+Pria,18,Ilmu Komputer,2,"3,50 - 4,00",Ya,Ya,Ya,TIDAK,Ya,Ya
+Perempuan,19,Fisika,1,"3,00 - 3,49",TIDAK,Ya,Ya,Ya,TIDAK,Ya
+Perempuan,18,Teknik Mesin,1,"2,00 - 2,49",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,18,Hukum,3,"3,00 - 3,49",TIDAK,Ya,Ya,TIDAK,TIDAK,Ya
+Perempuan,19,Fisika,1,"2,50 - 2,99",TIDAK,Ya,Ya,Ya,TIDAK,Ya
+Perempuan,18,Teknik Perkapalan,1,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,24,Teknik Mesin,2,"2,50 - 2,99",Ya,Ya,TIDAK,Ya,Ya,Ya
+Perempuan,24,Fisika,3,"3,00 - 3,49",TIDAK,TIDAK,Ya,TIDAK,TIDAK,Ya
+Perempuan,22,Teknik Mesin,4,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,20,Olahraga,2,"3,00 - 3,49",TIDAK,Ya,TIDAK,TIDAK,TIDAK,Ya
+Pria,23,Teknik Sipil,2,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,Ya,TIDAK,Ya
+Pria,18,Ilmu Komputer,1,"3,50 - 4,00",TIDAK,TIDAK,Ya,Ya,TIDAK,Ya
+Perempuan,19,Teknik Mesin,1,"3,50 - 4,00",TIDAK,TIDAK,Ya,TIDAK,TIDAK,Ya
+Perempuan,18,Mesin,4,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Pria,24,Ilmu Komputer,2,"3,00 - 3,49",TIDAK,Ya,TIDAK,TIDAK,TIDAK,Ya
+Perempuan,24,Ilmu Komputer,3,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,Ya,TIDAK,Ya
+Perempuan,23,Olahraga,1,"2,50 - 2,99",Ya,Ya,TIDAK,Ya,Ya,Ya
+Perempuan,18,Ilmu Komputer,2,"3,50 - 4,00",TIDAK,TIDAK,Ya,TIDAK,TIDAK,Ya
+Perempuan,19,Ilmu biomedis,3,"3,00 - 3,49",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,20,Manajemen,3,"3,00 - 3,49",Ya,Ya,Ya,Ya,TIDAK,Ya
+Perempuan,19,Ilmu Komputer,1,"3,50 - 4,00",TIDAK,Ya,TIDAK,Ya,Ya,Ya
+Pria,21,Ilmu Kelautan,1,"3,00 - 3,49",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Pria,23,Pertanian,3,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,20,Kehutanan,3,"3,00 - 3,49",TIDAK,Ya,Ya,TIDAK,TIDAK,Ya
+Perempuan,18,Ilmu Komputer,1,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,23,Kehutanan,1,"3,00 - 3,49",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,18,Keperawatan,3,"3,00 - 3,49",TIDAK,TIDAK,TIDAK,Ya,TIDAK,Ya
+Perempuan,19,Ilmu Komputer,1,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,18,Statistika,1,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,Ya,TIDAK,Ya
+Perempuan,24,Teknik Mesin,1,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,Ya,TIDAK,Ya
+Perempuan,24,Kebidanan,1,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,23,Manajemen,1,"3,50 - 4,00",TIDAK,Ya,Ya,TIDAK,TIDAK,Ya
+Perempuan,18,Manajemen,3,"3,00 - 3,49",TIDAK,TIDAK,Ya,TIDAK,TIDAK,Ya
+Pria,19,Perternakan,3,"3,00 - 3,49",Ya,Ya,TIDAK,Ya,TIDAK,Ya
+Perempuan,18,Astronomi,1,"3,50 - 4,00",TIDAK,Ya,TIDAK,TIDAK,TIDAK,Ya
+Perempuan,24,Kebidanan,4,"3,00 - 3,49",TIDAK,TIDAK,Ya,TIDAK,TIDAK,Ya
+Perempuan,24,Ilmu biomedis,1,"3,00 - 3,49",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,18,Hukum,3,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,Ya,TIDAK,Ya
+Perempuan,19,Fisika,3,"3,00 - 3,49",Ya,Ya,TIDAK,TIDAK,TIDAK,Ya
+Pria,18,Ilmu biomedis,1,"0 - 1,99",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Pria,24,Fisika,3,"3,50 - 4,00",TIDAK,TIDAK,Ya,TIDAK,TIDAK,Ya
+Perempuan,24,Manajemen,1,"3,50 - 4,00",TIDAK,TIDAK,Ya,Ya,TIDAK,Ya
+Perempuan,23,Teknik Mesin,1,"3,00 - 3,49",TIDAK,Ya,TIDAK,TIDAK,TIDAK,Ya
+Perempuan,18,Ilmu Pengetahuan Manusia,2,"3,00 - 3,49",TIDAK,TIDAK,TIDAK,Ya,TIDAK,Ya
+Perempuan,19,Bioteknologi,3,"0 - 1,99",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,18,Teknik Mesin,4,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,24,Komunikasi,2,"3,50 - 4,00",Ya,Ya,Ya,Ya,TIDAK,Ya
+Perempuan,24,Ilmu Perpustakaan,2,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,19,Teknik Mesin,1,"3,00 - 3,49",TIDAK,Ya,Ya,TIDAK,TIDAK,Ya
+Perempuan,19,Pendidikan Islam,2,"3,00 - 3,49",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Pria,23,Aktuaria,1,"3,00 - 3,49",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,18,Biologi,1,"3,50 - 4,00",TIDAK,Ya,Ya,TIDAK,Ya,Ya
+Perempuan,19,Bahasa Arab,3,"3,00 - 3,49",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,18,Biologi,1,"3,50 - 4,00",TIDAK,Ya,Ya,Ya,TIDAK,Ya
+Pria,24,Fisika,1,"3,00 - 3,49",TIDAK,TIDAK,Ya,TIDAK,TIDAK,Ya
+Pria,24,Teknik Mesin,2,"2,00 - 2,49",TIDAK,TIDAK,TIDAK,Ya,TIDAK,Ya
+Perempuan,23,Teknik Fisika,3,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,Ya,TIDAK,Ya
+Pria,18,Manajemen,2,"3,00 - 3,49",TIDAK,TIDAK,Ya,TIDAK,TIDAK,Ya
+Perempuan,19,Manajemen,2,"3,00 - 3,49",Ya,Ya,TIDAK,TIDAK,TIDAK,Ya
+Perempuan,18,Kehutanan,1,"3,00 - 3,49",TIDAK,Ya,TIDAK,TIDAK,TIDAK,Ya
+Perempuan,24,Bahasa Mandarin,3,"0 - 1,99",TIDAK,TIDAK,TIDAK,Ya,TIDAK,Ya
+Perempuan,18,Pendidikan Agama Islam,1,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,21,Ilmu Komputer,1,"3,50 - 4,00",TIDAK,TIDAK,Ya,TIDAK,TIDAK,Ya
+Pria,18,Teknik Mesin,2,"3,00 - 3,49",TIDAK,Ya,Ya,TIDAK,TIDAK,Ya
+Perempuan,19,Keperawatan,3,"3,50 - 4,00",Ya,Ya,TIDAK,Ya,TIDAK,Ya
+Perempuan,23,Pendidikan Islam,4,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Pria,20,Ilmu biomedis,2,"3,00 - 3,49",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,22,Teknik Sipil,4,"3,00 - 3,49",TIDAK,TIDAK,Ya,Ya,TIDAK,Ya
+Pria,20,Teknik Industri,2,"3,00 - 3,49",TIDAK,Ya,Ya,TIDAK,TIDAK,Ya
+Pria,20,Teknik Geologi,2,"3,00 - 3,49",TIDAK,Ya,TIDAK,Ya,TIDAK,Ya
+Perempuan,21,Ilmu Perpustakaan,3,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Pria,20,Bahasa Inggris,4,"3,50 - 4,00",TIDAK,TIDAK,Ya,TIDAK,Ya,Ya
+Pria,21,Teknik Sipil,3,"3,00 - 3,49",TIDAK,TIDAK,Ya,Ya,Ya,Ya
+Perempuan,19,Teknik Geodesi,1,"3,00 - 3,49",TIDAK,Ya,Ya,TIDAK,Ya,Ya
+Perempuan,20,Teknik Industri,2,"2,50 - 2,99",TIDAK,Ya,TIDAK,Ya,TIDAK,Ya
+Pria,22,Teknik Geologi,4,"3,00 - 3,49",TIDAK,TIDAK,TIDAK,Ya,TIDAK,Ya
+Perempuan,21,Ilmu Gizi,3,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Pria,22,Kedokteran Gigi,4,"3,00 - 3,49",TIDAK,Ya,Ya,TIDAK,TIDAK,Ya
+Pria,20,Ilmu Gizi,2,"3,00 - 3,49",TIDAK,TIDAK,TIDAK,Ya,TIDAK,Ya
+Pria,22,Bahasa Inggris,4,"3,50 - 4,00",TIDAK,TIDAK,Ya,Ya,TIDAK,Ya
+Perempuan,23,Teknik Geologi,4,"3,00 - 3,49",TIDAK,Ya,Ya,Ya,Ya,Ya
+Pria,20,Teknik Geodesi,2,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,18,Kedokteran,1,"2,00 - 2,49",TIDAK,Ya,Ya,Ya,TIDAK,Ya
+Perempuan,18,Kedokteran,1,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Pria,18,Kedokteran,2,"2,00 - 2,49",TIDAK,TIDAK,Ya,Ya,TIDAK,Ya
+Perempuan,21,Teknik Metalurgi,5,"3,50 - 4,00",TIDAK,Ya,Ya,TIDAK,TIDAK,Ya
+Pria,22,Teknik Metalurgi,6,"3,00 - 3,49",TIDAK,Ya,TIDAK,Ya,TIDAK,Ya
+Perempuan,19,Bahasa Mandarin,3,"2,00 - 2,49",TIDAK,Ya,Ya,Ya,Ya,Ya
+Perempuan,20,Bahasa Arab,4,"3,00 - 3,49",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,19,Bahasa Mandarin,3,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Pria,22,Teknik Mesin,6,"3,50 - 4,00",TIDAK,Ya,Ya,Ya,TIDAK,Ya
+Pria,22,Teknik Mesin,6,"3,50 - 4,00",TIDAK,Ya,Ya,Ya,TIDAK,Ya
+Pria,22,Teknik Metalurgi,6,"3,50 - 4,00",TIDAK,Ya,Ya,Ya,Ya,Ya
+Pria,22,Teknik Metalurgi,6,"3,50 - 4,00",TIDAK,Ya,Ya,Ya,Ya,Ya
+Pria,19,Teknik Metalurgi,2,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,19,ekonomi,3,"2,00 - 2,49",Ya,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,19,ekonomi,3,"2,00 - 2,49",Ya,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,20,ekonomi,5,"2,00 - 2,49",Ya,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,20,Statistika,5,"2,00 - 2,49",Ya,Ya,TIDAK,Ya,TIDAK,Ya
+Perempuan,20,Statistika,5,"3,00 - 3,49",Ya,TIDAK,Ya,Ya,Ya,Ya
+Pria,20,Teknik Mesin,2,"3,00 - 3,49",TIDAK,Ya,Ya,Ya,TIDAK,Ya
+Pria,19,Teknik Kimia,1,"3,00 - 3,49",TIDAK,TIDAK,Ya,TIDAK,TIDAK,Ya
+Pria,21,Teknik Sipil,2,"3,00 - 3,49",TIDAK,Ya,Ya,Ya,TIDAK,Ya
+Perempuan,22,Teknik Fisika,3,"3,00 - 3,49",TIDAK,Ya,TIDAK,TIDAK,TIDAK,Ya
+Pria,23,Matematika,4,"3,00 - 3,49",TIDAK,TIDAK,Ya,TIDAK,TIDAK,Ya
+Perempuan,19,Teknik Mesin,1,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,19,Teknik Perkapalan,1,"3,50 - 4,00",TIDAK,Ya,TIDAK,Ya,TIDAK,Ya
+Perempuan,22,Kimia,3,"3,50 - 4,00",TIDAK,TIDAK,Ya,TIDAK,TIDAK,Ya
+Pria,19,Teknik Kelautan,1,"2,50 - 2,99",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Pria,19,Teknik Kelautan,1,"3,50 - 4,00",TIDAK,TIDAK,Ya,Ya,TIDAK,Ya
+Perempuan,20,Administrasi Perkantoran,2,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Pria,19,Teknik Mesin,1,"3,50 - 4,00",TIDAK,Ya,TIDAK,Ya,TIDAK,Ya
+Perempuan,21,Ilmu Komputer,2,"3,00 - 3,49",TIDAK,Ya,Ya,Ya,TIDAK,Ya
+Pria,21,Teknik Mesin,2,"3,00 - 3,49",TIDAK,TIDAK,TIDAK,Ya,TIDAK,Ya
+Pria,20,Teknik Perkapalan,2,"3,50 - 4,00",TIDAK,TIDAK,Ya,TIDAK,TIDAK,Ya
+Pria,20,Teknik Perkapalan,2,"3,50 - 4,00",TIDAK,Ya,TIDAK,TIDAK,TIDAK,Ya
+Perempuan,20,Ilmu Komputer,2,"3,00 - 3,49",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,21,Kedokteran,3,"3,00 - 3,49",TIDAK,Ya,Ya,Ya,TIDAK,Ya
+Perempuan,20,Farmasi,2,"3,50 - 4,00",TIDAK,TIDAK,Ya,TIDAK,TIDAK,Ya
+Perempuan,21,Ilmu Kelautan,3,"3,50 - 4,00",TIDAK,Ya,Ya,Ya,TIDAK,Ya
+Pria,19,Teknik Mesin,1,"3,00 - 3,49",TIDAK,TIDAK,Ya,Ya,TIDAK,Ya
+Pria,21,Manajemen,3,"3,00 - 3,49",TIDAK,TIDAK,Ya,TIDAK,TIDAK,Ya
+Pria,20,Ilmu Komputer,2,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,20,Teknik Elektro,1,"3,00 - 3,49",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Pria,23,Teknik Elektro,4,"3,50 - 4,00",TIDAK,Ya,Ya,Ya,TIDAK,Ya
+Pria,21,Teknik Mesin,3,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,Ya,TIDAK,Ya
+Perempuan,19,Teknik Fisika,1,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,Ya,TIDAK,Ya
+Pria,21,Teknik Kimia,3,"3,00 - 3,49",TIDAK,Ya,Ya,TIDAK,TIDAK,Ya
+Perempuan,20,Teknik Fisika,2,"3,50 - 4,00",TIDAK,Ya,Ya,Ya,Ya,Ya
+Perempuan,20,Aktuaria,2,"3,50 - 4,00",TIDAK,Ya,TIDAK,TIDAK,TIDAK,Ya
+Pria,19,Teknik Industri,1,"3,50 - 4,00",TIDAK,Ya,TIDAK,Ya,TIDAK,Ya
+Perempuan,21,Teknik Geologi,2,"3,00 - 3,49",TIDAK,Ya,Ya,Ya,TIDAK,Ya
+Pria,21,Teknik Kelautan,2,"3,00 - 3,49",TIDAK,TIDAK,TIDAK,Ya,TIDAK,Ya
+Pria,20,Teknik Perkapalan,2,"3,50 - 4,00",TIDAK,TIDAK,Ya,TIDAK,TIDAK,Ya
+Pria,20,Teknik Perkapalan,2,"3,50 - 4,00",TIDAK,Ya,TIDAK,TIDAK,TIDAK,Ya
+Perempuan,20,Statistika,2,"3,00 - 3,49",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,21,Kedokteran,3,"3,00 - 3,49",TIDAK,Ya,Ya,Ya,TIDAK,Ya
+Perempuan,20,Fisika,2,"3,50 - 4,00",TIDAK,TIDAK,Ya,TIDAK,TIDAK,Ya
+Perempuan,21,Ilmu Kelautan,3,"3,50 - 4,00",TIDAK,Ya,Ya,Ya,TIDAK,Ya
+Pria,19,Teknik Mesin,1,"3,00 - 3,49",TIDAK,TIDAK,Ya,Ya,TIDAK,Ya
+Pria,21,Manajemen,3,"3,00 - 3,49",TIDAK,TIDAK,Ya,TIDAK,TIDAK,Ya
+Pria,20,Matematika,2,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,20,Teknik Elektro,1,"3,00 - 3,49",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Pria,23,Teknik Elektro,4,"3,50 - 4,00",TIDAK,Ya,Ya,Ya,TIDAK,Ya
+Pria,21,Teknik Industri,3,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,Ya,TIDAK,Ya
+Pria,21,Teknik Kimia,3,"3,50 - 4,00",TIDAK,TIDAK,Ya,Ya,TIDAK,Ya
+Pria,21,Teknik Kimia,3,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,18,Teknik Mesin,1,"3,00 - 3,49",TIDAK,Ya,TIDAK,Ya,TIDAK,Ya
+Pria,21,Pendidikan Agama Islam,2,"3,00 - 3,49",TIDAK,TIDAK,Ya,TIDAK,TIDAK,Ya
+Pria,19,Fisika,1,"3,00 - 3,49",TIDAK,Ya,Ya,Ya,TIDAK,Ya
+Perempuan,22,Hukum,3,"3,00 - 3,49",Ya,Ya,TIDAK,TIDAK,TIDAK,Ya
+Pria,23,Matematika,4,"3,00 - 3,49",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Pria,19,Teknik Mesin,2,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,Ya,TIDAK,Ya
+Perempuan,23,Teknik Elektro,2,"3,50 - 4,00",Ya,Ya,TIDAK,Ya,TIDAK,Ya
+Perempuan,18,Ilmu Komputer,1,"3,50 - 4,00",TIDAK,TIDAK,Ya,TIDAK,TIDAK,Ya
+Perempuan,19,Biologi,2,"2,50 - 2,99",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Pria,18,Teknik Perkapalan,1,"3,50 - 4,00",TIDAK,TIDAK,Ya,Ya,TIDAK,Ya
+Perempuan,20,Biologi,1,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,24,Teknik Mesin,3,"3,50 - 4,00",Ya,Ya,TIDAK,TIDAK,TIDAK,Ya
+Perempuan,18,Ilmu Komputer,1,"3,00 - 3,49",TIDAK,Ya,TIDAK,TIDAK,TIDAK,Ya
+Pria,19,Teknik Mesin,1,"3,00 - 3,49",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,18,Teknik Kimia,2,"3,50 - 4,00",TIDAK,TIDAK,Ya,TIDAK,TIDAK,Ya
+Pria,24,Ilmu Komputer,3,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,24,Akuntansi,3,"3,00 - 3,49",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,24,Kedokteran,4,"3,00 - 3,49",Ya,Ya,Ya,Ya,TIDAK,Ya
+Perempuan,20,Arsitektur,2,"3,50 - 4,00",TIDAK,TIDAK,Ya,TIDAK,TIDAK,Ya
+Perempuan,18,Bisnis Digital,2,"3,50 - 4,00",Ya,Ya,Ya,Ya,TIDAK,Ya
+Perempuan,19,Teknik Mesin,1,"3,00 - 3,49",TIDAK,TIDAK,TIDAK,Ya,TIDAK,Ya
+Perempuan,18,Manajemen,2,"3,00 - 3,49",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,24,Ilmu Komputer,1,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,24,Teknik Mesin,1,"3,00 - 3,49",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,23,Ilmu Komputer,3,"3,50 - 4,00",TIDAK,Ya,Ya,Ya,TIDAK,Ya
+Perempuan,18,Ekonomi,1,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,19,Teknik Mesin,1,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Pria,18,Teknik Mesin,2,"3,00 - 3,49",Ya,Ya,Ya,TIDAK,TIDAK,Ya
+Perempuan,24,Arsitektur,3,"3,50 - 4,00",Ya,Ya,Ya,Ya,Ya,Ya
+Perempuan,24,Bisnis Digital,4,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Pria,22,Ekonomi,4,"3,00 - 3,49",TIDAK,Ya,TIDAK,Ya,Ya,Ya
+Pria,22,Arsitektur,4,"3,50 - 4,00",TIDAK,Ya,TIDAK,Ya,Ya,Ya
+Perempuan,20,Bisnis Digital,2,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,Ya,TIDAK,Ya
+Pria,18,Teknik Kimia,1,"3,50 - 4,00",TIDAK,TIDAK,TIDAK,Ya,TIDAK,Ya
+Perempuan,22,Akuntansi,4,"3,50 - 4,00",Ya,TIDAK,Ya,Ya,TIDAK,Ya
+Pria,21,Akuntansi,3,"3,00 - 3,49",Ya,TIDAK,Ya,TIDAK,TIDAK,Ya
+Pria,20,Pendidikan Agama Islam,2,"3,00 - 3,49",Ya,Ya,Ya,TIDAK,TIDAK,Ya
+Pria,20,Pendidikan Agama Islam,2,"3,00 - 3,49",TIDAK,Ya,TIDAK,TIDAK,TIDAK,Ya
+Perempuan,18,Hukum,1,"3,50 - 4,00",TIDAK,TIDAK,Ya,Ya,Ya,Ya
+Perempuan,18,Matematika,1,"2,50 - 2,99",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
+Perempuan,21,Ilmu Komputer,3,"3,00 - 3,49",TIDAK,Ya,TIDAK,Ya,Ya,Ya
+Perempuan,20,Manajemen,2,"3,00 - 3,49",Ya,Ya,TIDAK,TIDAK,TIDAK,Ya
+Pria,23,Biologi,4,"3,50 - 4,00",Ya,TIDAK,TIDAK,TIDAK,TIDAK,Ya
+Pria,21,Teknik Elektro,3,"3,50 - 4,00",TIDAK,Ya,Ya,TIDAK,TIDAK,Ya
+Pria,20,Teknik Mesin,2,"3,00 - 3,49",TIDAK,TIDAK,TIDAK,TIDAK,TIDAK,TIDAK
