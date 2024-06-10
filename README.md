@@ -1,5 +1,10 @@
 # Teran-Machine-Learning
 
+| Name  | Student ID |
+| Eka Sulistyaningsih | M129D4KX2350 |
+| Royhan Nurisalam   | M004D4KY2039  |
+| Tasya Ade Amelia | M281D4KX3241  |
+
 ## EDA & Data Preparation
 Our dataset include 3 type of stress (anxiety, depressed, panicking) in Indonesia and total dataset is 500 data.
 
