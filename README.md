@@ -3,13 +3,13 @@ Group = C241-PS061
 
 Member =
 
-   • (ML) M281D4KX3241 – Tasya Ade Amelia 
-   • (ML) M129D4KX2350 – Eka Sulistyaningsih
-   • (ML) M004D4KY2039 – Royhan Nurisalam 
-   • (CC) C193D4KY0367 – Muhammad Dariaz Zidane
-   • (CC) C129D4KX0459 – Lusy Damayanti
-   • (MD) A247D4KY3887 – Muhammad Ervan Fadillah 
-   • (MD) A524D4KY4068 – Arry Kusuma Putra 
+    (ML) M281D4KX3241 – Tasya Ade Amelia 
+    (ML) M129D4KX2350 – Eka Sulistyaningsih
+    (ML) M004D4KY2039 – Royhan Nurisalam
+    (CC) C193D4KY0367 – Muhammad Dariaz Zidane
+    (CC) C129D4KX0459 – Lusy Damayanti
+    (MD) A247D4KY3887 – Muhammad Ervan Fadillah 
+    (MD) A524D4KY4068 – Arry Kusuma Putra
 
 # Teran App
 Teran App is an application designed to help college students manage stress by providing resources and tools for stress detection and management. The app features a machine learning algorithm to assess stress levels 📊, articles on stress management 📚, and a networking platform for users to share their experiences 🗣️. It is built using various technologies, including TensorFlow 🧠, Firebase for cloud integration ☁️, and a user-friendly interface designed with material components 💎.
